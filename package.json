@@ -1,0 +1,17 @@
+{
+  "name": "nombre-del-proyecto",
+  "version": "1.0.0",
+  "description": "Descripción del proyecto",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "@types/node": "^14.0.0"
+  },
+  "dependencies": {}
+}
